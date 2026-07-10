@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF69B4"          # Hot pink for active tabs/sliders
+backgroundColor = "#FFF0F5"       # LavenderBlush (gorgeous pastel pink main background)
+secondaryBackgroundColor = "#FFE4E1" # MistyRose (soft baby pink for the sidebar)
+textColor = "#4A0E2E"             # Deep berry/plum (perfect contrast so text is clearly readable!)
+font = "sans serif"
